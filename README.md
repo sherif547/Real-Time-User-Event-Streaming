@@ -37,12 +37,6 @@ We simulate a system that generates user data in real-time (e.g. from a sign-up 
 └── README.md
 
 
-
-
-
-
----
-
 ## 🧪 How to Run
 
 1. Clone this repo:
@@ -50,16 +44,5 @@ We simulate a system that generates user data in real-time (e.g. from a sign-up 
    git clone https://github.com/YOUR_USERNAME/streaming-pipeline.git
    cd streaming-pipeline
 
-
-📍 Features
-✔️ Real-time ingestion and persistence
-
-✔️ Resilient batch streaming with checkpointing
-
-✔️ Fully containerized and reproducible
-
-✔️ Minimal setup with Docker Compose
-
-✔️ Schema enforcement and deduplication
 
 
