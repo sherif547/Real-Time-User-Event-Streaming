@@ -38,11 +38,7 @@ We simulate a system that generates user data in real-time (e.g. from a sign-up 
 
 
 
-. ├── spark_stream.py # Spark Structured Streaming logic ├── streaming_random_user.py # Airflow DAG that pulls from API and sends to Kafka ├── init_db.py # Initializes the PostgreSQL table ├── docker-compose.yml # Sets up Kafka, Spark, Postgres, Airflow ├── requirements.txt # Python dependencies └── README.md # Project documentation
 
----
-
-## 📸 Architecture Diagram
 
 
 ---
